@@ -29,6 +29,7 @@ a::after{
   z-index: -1;
   border-radius: 8px;
   border: 1px solid grey;
+  box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,1);
 
 }
 a::before{
